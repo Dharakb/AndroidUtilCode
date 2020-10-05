@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AndroidUtilCode</string>
+
+    <!--Image Selection-->
+    <string name="choose_image">Choose Image</string>
+    <string name="choose_from_gallery">Choose Photo from Gallery</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="cancel">Cancel</string>
+    <string name="no_app_found">No app found</string>
+
+    <!--Permissions-->
+    <string name="ok">OK</string>
+    <string name="you_need_to_grant_access">You need to grant access to</string>
+    <string name="location">Location</string>
+    <string name="enable_gps_required">You need to enable location service to access current location and use this app</string>
+    <string name="turn_on">Turn On</string>
+
+    <!--Response-->
+    <string name="something_went_wrong">Something went wrong</string>
+</resources>
